@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3ee+EwIYicy3vnZQDe5O83gNTz3t7Lp3BjyrO5BVstQ=",
+  "Source": "proppy-app-dotnet",
+  "BasePath": "_content/proppy-app-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

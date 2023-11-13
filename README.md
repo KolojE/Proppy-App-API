@@ -30,3 +30,5 @@ dotnet restore
 ```bash
 dotnet run
 ```
+
+5. Setup MSSQL and Create Database and Table with corresponsding columns with Contact Model.
